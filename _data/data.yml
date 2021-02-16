@@ -49,7 +49,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: M.Sc in Electrical Engineering 
+    - degree: M.S. in Electrical Engineering 
       university: POSTECH
       time: Feb.2021-Present
       details: |
@@ -60,7 +60,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: B.Sc in Electrical Engineering
+    - degree: B.S. in Electrical Engineering
       university: Ewha Womans University
       time: Mar.2017 - Feb.2021
       details: |
@@ -73,42 +73,17 @@ education:
           - Bullet point
 experiences:
     - role: Undergraduate Student Researcher Intern 
-      time: 201
-      company: Startup Hubs, San Francisco
+      time: July.2020 - Sep.2020
+      company: DSAL in Ewha Womans University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+         - Advisor: Prof.Jihoon Kim
+         # - Bullet point
+    - role: Undergraduate Student Researcher Intern 
+      time: Jan.2020 - Feb.2020
+      company: Korea Institute of Science and Technology
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Advisor: Pdoc.Yeonjoo Jeong
+          #- Bullet point
 projects:
     title: Projects
     intro: >
@@ -162,23 +137,15 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Verilog
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C&C++
         level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
