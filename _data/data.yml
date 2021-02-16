@@ -50,13 +50,7 @@ education:
       university: POSTECH
       time: Feb.2021-Present
       details: |
-      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-       # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-       # pretium quis, sem.
-        #  - Bullet point
-         # - Bullet point
+     
     - degree: B.S. in Electrical Engineering
       university: Ewha Womans University
       time: Mar.2017 - Feb.2021
@@ -89,9 +83,6 @@ projects:
 publications:
     title: Publications
     intro: |
-     # You can list your publications in this section. Lorem ipsum dolor sit
-     # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-     # bibendum fringilla a eu lectus.
     papers:
      # - title: The Art of Computer Programming
         #link: "#"
