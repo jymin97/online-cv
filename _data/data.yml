@@ -8,7 +8,6 @@ sidebar:
 
     # Profile information
     name: Jiyoung Min
-    tagline: Full Stack Developer
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -61,7 +60,6 @@ experiences:
       company: DSAL in Ewha Womans University
       details: |
          - Advisor: Prof.Jihoon Kim
-         # - Bullet point
     - role: Undergraduate Student Researcher Intern 
       time: Jan.2020 - Feb.2020
       company: Korea Institute of Science and Technology
@@ -84,13 +82,9 @@ publications:
     title: Publications
     intro: |
     papers:
-     # - title: The Art of Computer Programming
-        #link: "#"
-        #authors: Donald E. Knuth
-        #conference: Addison-Wesley, 1968
+
 
       
-
 skills:
     title: Skills &amp; Proficiency
 
